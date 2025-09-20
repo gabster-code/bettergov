@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="414.97028"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <title
+     id="title3868">Power Sector Assets and Liabilities Management Corporation (PSALM)</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3849">
+      <stop
+         style="stop-color:#fcd116;stop-opacity:1;"
+         offset="0"
+         id="stop3851" />
+      <stop
+         style="stop-color:#fcd116;stop-opacity:0;"
+         offset="1"
+         id="stop3853" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3849"
+       id="linearGradient3855"
+       x1="380.61618"
+       y1="29.742306"
+       x2="380.61618"
+       y2="486.60251"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9084333,0,0,0.9084333,2.596954,44.550862)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36230469"
+     inkscape:cx="-486.12249"
+     inkscape:cy="193.55247"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Power Sector Assets and Liabilities Management Corporation (PSALM)</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.361337,-71.56974)">
+    <rect
+       style="color:#000000;fill:#ce1126;fill-opacity:1;stroke:none;stroke-width:0.10013779;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3786"
+       width="639.88654"
+       height="414.97025"
+       x="28.418104"
+       y="71.569763" />
+    <rect
+       style="color:#000000;fill:url(#linearGradient3855);fill-opacity:1;stroke:none;stroke-width:0.10013779;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3786-5"
+       width="639.88654"
+       height="414.97025"
+       x="28.418104"
+       y="71.56974" />
+    <g
+       transform="matrix(0.90878559,0,0,0.90808111,2.596954,44.550862)"
+       style="font-size:248.4868927px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:-37.27304077px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+       id="text2996">
+      <path
+         d="m 104.88332,244.26505 -76.532977,0 0,174.18707 45.472516,0 0,-48.20584 31.060461,0 c 22.37895,-0.13972 39.61749,-5.82378 51.71567,-17.05219 12.09789,-11.22829 18.21679,-27.16229 18.35673,-47.80205 -0.13993,-19.50584 -6.25884,-34.53909 -18.35673,-45.0998 -12.09818,-10.56038 -29.33672,-15.90278 -51.71567,-16.02719 z m -2.23635,89.70261 -28.824111,0 0,-53.42399 28.824111,0 c 9.25591,0.026 16.39981,2.27273 21.43171,6.74012 5.03168,4.46766 7.57864,11.0007 7.64088,19.59915 -0.0622,8.84716 -2.6092,15.56656 -7.64087,20.15824 -5.0319,4.59186 -12.1758,6.90068 -21.43172,6.92648 z"
+         style="fill:#ffffff;stroke:none"
+         id="path3858"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 279.98836,297.93753 17.14537,-36.03014 c -9.23545,-5.92721 -19.89953,-10.65875 -31.99227,-14.19463 -12.09298,-3.53555 -24.62069,-5.3474 -37.58316,-5.43558 -21.27131,0.18136 -38.11641,4.97502 -50.53538,14.38099 -12.41903,9.4063 -18.76571,22.33779 -19.04005,38.79452 0.47754,15.07544 5.25308,26.17307 14.32664,33.29293 9.07349,7.12005 19.57968,12.24631 31.51859,15.37881 11.93879,3.13265 22.44498,6.25552 31.51861,9.36862 9.07343,3.11322 13.84898,8.20066 14.32664,15.26233 -0.0726,4.61252 -2.03974,8.12234 -5.90149,10.52949 -3.86195,2.40722 -9.18363,3.61858 -15.96508,3.63408 -9.44763,-0.13456 -19.99783,-2.59868 -31.65061,-7.39239 -11.6529,-4.79362 -22.14097,-11.10924 -31.46424,-18.94688 l -17.64235,35.53317 c 10.6589,8.66071 23.0106,15.44223 37.05514,20.3446 14.04445,4.90237 28.44613,7.39756 43.2051,7.48557 19.87859,-0.0155 36.40274,-4.5193 49.57249,-13.5113 13.16949,-8.99198 20.00278,-22.37903 20.49991,-40.16118 -0.47771,-15.33086 -5.25325,-26.6938 -14.32664,-34.08886 -9.07367,-7.39488 -19.57986,-12.76316 -31.51861,-16.10485 -11.93896,-3.34148 -22.44515,-6.59765 -31.5186,-9.76851 -9.0736,-3.17064 -13.84914,-8.19725 -14.32664,-15.07985 0.0724,-3.97561 1.72897,-6.95741 4.96968,-8.94542 3.24057,-1.98773 7.63044,-2.98166 13.16963,-2.9818 7.49584,0.12438 16.35841,1.92589 26.58776,5.40452 10.22913,3.47891 20.08564,7.88949 29.56956,13.23176 z"
+         style="fill:#ffffff;stroke:none"
+         id="path3860"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 411.3097,418.45212 48.45432,0 -73.05421,-174.18707 -46.71493,0 -74.7936,174.18707 46.71494,0 12.1757,-30.81198 75.29056,0 z m -73.55118,-65.5997 24.3514,-62.12092 23.85444,62.12092 z"
+         style="fill:#ffffff;stroke:none"
+         id="path3862"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 438.25665,244.26505 0,174.18707 119.27218,0 0,-38.76346 -73.79966,0 0,-135.42361 z"
+         style="fill:#ffffff;stroke:none"
+         id="path3864"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 540.75745,244.26505 0,174.18707 40.50284,0 0,-110.32676 40.50284,92.9329 29.81805,0 40.50284,-92.9329 0.24848,110.32676 40.25436,0 0,-174.18707 -49.69674,0 -46.21797,101.62983 -46.21796,-101.62983 z"
+         style="fill:#ffffff;stroke:none"
+         id="path3866"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+       x="-405.73584"
+       y="657.66675"
+       id="text3014"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3016"
+         x="-405.73584"
+         y="657.66675"></tspan></text>
+  </g>
+</svg>

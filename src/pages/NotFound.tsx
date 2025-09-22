@@ -79,18 +79,6 @@ export default function NotFound() {
             </div>
             s
           </div>
-
-          {/* Footer Message */}
-          <div className='text-center mt-16'>
-            <div className='bg-white/10 backdrop-blur-sm rounded-lg p-6 max-w-2xl mx-auto'>
-              <p className='text-blue-100 text-sm leading-relaxed'>
-                <strong>Fun Fact:</strong> This 404 page was processed faster
-                than most go- *ehem* forms! If you are still having trouble,
-                consider filing a formal complaint... kidding! Just try the
-                search above or head back to our homepage.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>

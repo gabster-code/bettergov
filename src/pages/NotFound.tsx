@@ -1,4 +1,3 @@
- 
 import { Link } from 'react-router-dom';
 
 import { Home, AlertTriangle } from 'lucide-react';
@@ -53,10 +52,9 @@ export default function NotFound() {
                 Lost in the Digital Bureaucracy?
               </h2>
               <p className='text-lg text-blue-100 max-w-2xl mx-auto leading-relaxed'>
-                Relax, even the best government systems have their maze-like
-                moments. This page seems to have gotten stuck in processing...
-                probably waiting for approval from three(or more) different
-                departments.
+                Relax, even the best systems have their maze-like moments. This
+                page seems to have gotten stuck in processing... probably
+                waiting for approval from three(or more) different departments.
               </p>
             </div>
             {/* Actions */}
@@ -87,7 +85,7 @@ export default function NotFound() {
             <div className='bg-white/10 backdrop-blur-sm rounded-lg p-6 max-w-2xl mx-auto'>
               <p className='text-blue-100 text-sm leading-relaxed'>
                 <strong>Fun Fact:</strong> This 404 page was processed faster
-                than most government forms! If you are still having trouble,
+                than most go- *ehem* forms! If you are still having trouble,
                 consider filing a formal complaint... kidding! Just try the
                 search above or head back to our homepage.
               </p>

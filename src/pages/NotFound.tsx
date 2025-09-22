@@ -27,18 +27,9 @@ export default function NotFound() {
         <meta property='og:url' content='https://bettergov.ph/not-found' />
         <meta property='og:image' content='https://bettergov.ph/ph-logo.png' />
       </Helmet>
-      {/* Header */}
 
-      {/* Main Content */}
       <div className='relative'>
-        {/* Background Pattern */}
-        <div className='absolute inset-0 opacity-10'>
-          <div className='absolute top-20 left-10 w-32 h-32 border border-white/30 rounded-full'></div>
-          <div className='absolute top-40 right-20 w-24 h-24 border border-white/20 rounded-full'></div>
-          <div className='absolute bottom-40 left-1/4 w-16 h-16 border border-white/25 rounded-full'></div>
-        </div>
-
-        <div className='relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20'>
+        <div className='relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-10'>
           {/* 404 Section */}
           <div className='text-center mb-16'>
             <div className='inline-flex items-center justify-center w-24 h-24 bg-white/20 backdrop-blur-sm rounded-full mb-8'>

@@ -45,7 +45,7 @@ export default function NotFound() {
               <p className='text-lg text-blue-100 max-w-2xl mx-auto leading-relaxed'>
                 Relax, even the best systems have their maze-like moments. This
                 page seems to have gotten stuck in processing... probably
-                waiting for approval from three(or more) different departments.
+                waiting for approval from three (or more) different departments.
               </p>
             </div>
             {/* Actions */}

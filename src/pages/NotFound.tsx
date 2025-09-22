@@ -77,7 +77,6 @@ export default function NotFound() {
                 Go Back
               </Button>
             </div>
-            s
           </div>
         </div>
       </div>

@@ -1,6 +1,9 @@
 import { Link } from 'react-router-dom';
 
-import { Home, AlertTriangle } from 'lucide-react';
+import {
+  Home as HomeIcon,
+  AlertTriangle as AlertTriangleIcon,
+} from 'lucide-react';
 import Button from '../components/ui/Button';
 
 import { Helmet } from 'react-helmet-async';
@@ -33,7 +36,7 @@ export default function NotFound() {
           {/* 404 Section */}
           <div className='text-center mb-16'>
             <div className='inline-flex items-center justify-center w-24 h-24 bg-white/20 backdrop-blur-sm rounded-full mb-8'>
-              <AlertTriangle className='w-12 h-12 text-white' />
+              <AlertTriangleIcon className='w-12 h-12 text-white' />
             </div>
             <h1 className='text-6xl md:text-8xl font-bold text-white mb-4 tracking-tight'>
               404
@@ -55,7 +58,7 @@ export default function NotFound() {
                   size='lg'
                   className='bg-white text-blue-600 hover:bg-blue-50 font-semibold px-8'
                 >
-                  <Home className='w-5 h-5 mr-2' />
+                  <HomeIcon className='w-5 h-5 mr-2' />
                   Return to Homepage
                 </Button>
               </Link>
